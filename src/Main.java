@@ -13,6 +13,8 @@ public class Main {
 
             int a = 10;
             int b = 10;
+
+            int resultado = a + b;
         }
     }
 }
